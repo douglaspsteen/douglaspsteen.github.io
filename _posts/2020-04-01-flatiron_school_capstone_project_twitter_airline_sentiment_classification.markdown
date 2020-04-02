@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Flatiron School Capstone Project: Twitter Airline Sentiment Classification"
-date:       2020-04-02 02:29:13 +0000
+date:       2020-04-01 22:29:14 -0400
 permalink:  flatiron_school_capstone_project_twitter_airline_sentiment_classification
 ---
 
@@ -447,7 +447,7 @@ NLP can be used to identify words most commonly appearing in positive, negative,
 * Negative: words concerning time waiting, delayed/cancelled flights, bad customer service
 * Neutral: requests for information, questions
 
-Twitter sentiment classifiers are most effective when using GloVe pre-trained word vectors. Since GloVe vectors are trained on 2 billion tweets, they capture more information than can be obtained by training a Doc2Vec model from scratch on a smaller corpus of unlabeled tweets (~41.5k unlabeled tweets used in this study).
+If you want to use word embeddings for a tweet classifier, I highly recommend using GloVe pre-trained word vectors. Since GloVe vectors are trained on 2 billion tweets, they capture more information than can be obtained by training a Doc2Vec model from scratch on a smaller corpus of unlabeled tweets (~41.5k unlabeled tweets used in this study).
 
 Thanks for reading! The full project repository can be viewed on GitHub [here](https://github.com/douglaspsteen/dsc-capstone-project-v2-online-ds-ft-100719).
 
