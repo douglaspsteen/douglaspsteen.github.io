@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Obtaining Raw Data from an API: A Python Tutorial"
-date:       2020-04-02 17:22:44 +0000
+date:       2020-04-02 13:22:45 -0400
 permalink:  obtaining_raw_data_from_an_api_a_python_tutorial
 ---
 
 
-As a data scientist, the ability to obtain data through an API is a critical skill. In this post, I provide a brief tutorial on obtaining soccer data from [API-FOOTBALL](https://www.api-football.com/), a RESTful API hosted by the [RapidAPI](https://rapidapi.com/ )marketplace. This tutorial follows the general method for my fourth project completed during the Flatiron School Online Immersive Data Science Bootcamp. The full GitHub repository for this project can be viewed here: https://github.com/douglaspsteen/Predict_EPL_Matches.
+As a data scientist, the ability to obtain data through an API is a critical skill. In this post, I provide a brief tutorial on obtaining soccer data from [API-FOOTBALL](https://www.api-football.com/), a RESTful API hosted by the [RapidAPI](https://rapidapi.com/ )marketplace. This tutorial follows the general method for my fourth project completed during the Flatiron School Online Immersive Data Science Bootcamp. The full GitHub repository for this project can be viewed [here](https://github.com/douglaspsteen/Predict_EPL_Matches).
 
 ### Step 1: Create a RapidAPI account and subscribe to API-FOOTBALL
 
