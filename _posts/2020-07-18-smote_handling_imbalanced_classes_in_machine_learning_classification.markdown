@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "SMOTE: Handling Imbalanced Classes in Machine Learning Classification"
-date:       2020-07-18 23:03:06 +0000
+date:       2020-07-18 19:03:07 -0400
 permalink:  smote_handling_imbalanced_classes_in_machine_learning_classification
 ---
 
