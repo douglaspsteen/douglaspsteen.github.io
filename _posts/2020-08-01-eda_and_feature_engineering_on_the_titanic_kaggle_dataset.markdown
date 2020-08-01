@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "EDA and Feature Engineering on the Titanic Kaggle Dataset"
-date:       2020-08-01 23:29:27 +0000
+date:       2020-08-01 19:29:28 -0400
 permalink:  eda_and_feature_engineering_on_the_titanic_kaggle_dataset
 ---
 
